@@ -9,3 +9,8 @@ current:
 5) octopus pro 1.1
 6) pi4
 7) obico
+8) btt u2c
+9) logitech c920
+10) chaotic laps tap
+11) 7mm umbilical
+12) sunon blower and hotend fan
