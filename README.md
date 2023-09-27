@@ -11,6 +11,14 @@ current:
 7) obico
 8) btt u2c
 9) logitech c920
-10) chaotic laps tap
+10) chaotic labs tap
 11) 7mm umbilical
 12) sunon blower and hotend fan
+13) brush and purge
+14) orbiter filament sensor
+15) 270 degree hinges
+16) stealthburner
+17) voron 2.2754
+18) auto github commits
+19) mgn12
+20) 
